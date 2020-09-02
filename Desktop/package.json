@@ -1,0 +1,16 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "description": "Aplicacion Desktop con Electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder -l"
+  },
+  "author": "Wendy Suarez Pena",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^10.1.0",
+    "electron-builder": "^22.8.0"
+  }
+}
