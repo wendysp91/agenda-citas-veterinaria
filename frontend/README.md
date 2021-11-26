@@ -1,3 +1,5 @@
+This project is developed as final project of the Udemy course "JavaScript Moderno Guía Definitiva" by Juan de la Torre
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
